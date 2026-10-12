@@ -1,6 +1,6 @@
 # Awesome-Nonprofit-CRM-Donor-Management
 
-# Top Nonprofit CRM & Donor Management Tools Ecosystem
+## Top Nonprofit CRM & Donor Management Tools Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Donor Stewardship, Fundraising Automation & Constituent Relationship Intelligence*  
