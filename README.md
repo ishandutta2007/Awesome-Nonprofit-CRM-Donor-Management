@@ -10,6 +10,7 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Nonprofit-CRM-Donor-Management?style=social)](https://github.com/ishandutta2007/Awesome-Nonprofit-CRM-Donor-Management/stargazers)
+<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
 **A carefully curated directory of enterprise SaaS solutions, hosted platforms, and self-hosted open-source software for Nonprofit Customer Relationship Management (CRM), donor stewardship, gift management, fundraising automation, and constituent intelligence.**
 
