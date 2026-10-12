@@ -27,7 +27,9 @@
 - [🧩 Specialized Open-Source Components & Utilities](#-specialized-open-source-components--utilities)
 - [🏗️ Recommended Architectural Stacks](#️-recommended-architectural-stacks)
 - [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Sponsorship](#-support--sponsorship)
 - [⚖️ Disclaimer & Compliance](#️-disclaimer--compliance)
+- [📈 Star History](#star-history)
 
 ---
 
@@ -125,12 +127,34 @@ Contributions are warmly welcomed! Please help expand this directory by followin
 
 ---
 
+## 💖 Support & Sponsorship
+
+Thank you so much for exploring and using this curated resource! If this project helped you discover the right CRM, streamline your donor management, or build an open-source civic tech stack, please consider supporting the project:
+
+- ⭐ **Star this repository** to help others in the nonprofit and open-source ecosystem discover it.
+- 🍴 **Fork and contribute** by adding new tools, fixing links, or sharing practical insights.
+- 📢 **Share with colleagues, nonprofit boards, and tech teams** working across civil society and civic tech.
+- ☕ **Buy me a coffee / Sponsor the project**: Support continuous open-source curation and maintenance via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
+
+<p align="center">
+  <a href="https://github.com/sponsors/ishandutta2007">
+    <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?style=for-the-badge&logo=github-sponsors" alt="Sponsor on GitHub" />
+  </a>
+</p>
+
+---
+
 ## ⚖️ Disclaimer & Compliance
 
 - 📌 **Independent Curation**: This is a community-maintained resource; inclusion does not constitute endorsement.
 - 🔒 **Data Protection Compliance**: Nonprofits handling personal donor data must adhere to GDPR, CCPA, and regional privacy regulations.
 - 💳 **PCI-DSS Compliance**: Ensure payment collection forms leverage tokenized card handling (e.g., Stripe Elements) to avoid storing sensitive PAN/CVV data.
 - 🛡️ **Self-Hosting Security**: Self-hosted instances must configure daily automated off-site backups, SSL/TLS certificates, and principle-of-least-privilege RBAC.
+
+---
+
+##  Star History
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Nonprofit-CRM-Donor-Management&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Nonprofit-CRM-Donor-Management&type=date&legend=top-left)
 
 ---
 
