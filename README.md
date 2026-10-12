@@ -9,7 +9,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Nonprofit-CRM-Donor-Management?style=social)](https://github.com/ishandutta2007/Awesome-Nonprofit-CRM-Donor-Management/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Nonprofit-CRM-Donor-Management?style=social)](https://github.com/ishandutta2007/Awesome-Nonprofit-CRM-Donor-Management/stargazers)
 <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
 **A carefully curated directory of enterprise SaaS solutions, hosted platforms, and self-hosted open-source software for Nonprofit Customer Relationship Management (CRM), donor stewardship, gift management, fundraising automation, and constituent intelligence.**
@@ -60,9 +60,9 @@ The table below summarizes leading hosted and SaaS nonprofit CRM solutions. Entr
 
 ## 💻 Open-Source GitHub Projects
 
-Explore the top open-source CRM and donor management software repos. Repositories are sorted in **descending order by GitHub star count** with live social stargazer badges.
+Explore the top open-source CRM and donor management software repos. Repositories are sorted in **descending order by GitHub Stars_Count** with live social stargazer badges.
 
-| 📦 Repository | ⭐ GitHub Stars | 📜 License | 🛠️ Tech Stack | 💡 Focus & Description |
+| 📦 Repository | ⭐ GitHub_Stars | 📜 License | 🛠️ Tech Stack | 💡 Focus & Description |
 | :--- | :---: | :---: | :---: | :--- |
 | **[Twenty](https://github.com/twentyhq/twenty)** | [![Twenty Stars](https://img.shields.io/github/stars/twentyhq/twenty?style=social&color=white)](https://github.com/twentyhq/twenty/stargazers) | AGPL-3.0 | TypeScript, React, NestJS, PostgreSQL | Modern extensible open-source CRM framework featuring custom relational entities, donor schemas, GraphQL APIs, and workflow automations. |
 | **[ERPNext](https://github.com/frappe/erpnext)** | [![ERPNext Stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers) | GPL-3.0 | Python, JavaScript, MariaDB, Redis | Enterprise resource planning with a dedicated Nonprofit Domain module tracking donors, grant applications, membership dues, and fund accounting. |
